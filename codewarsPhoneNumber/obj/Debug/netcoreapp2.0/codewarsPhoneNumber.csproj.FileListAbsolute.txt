@@ -1,4 +1,0 @@
-/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewarsPhoneNumber/codewarsPhoneNumber/obj/Debug/netcoreapp2.0/codewarsPhoneNumber.csprojResolveAssemblyReference.cache
-/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewarsPhoneNumber/codewarsPhoneNumber/obj/Debug/netcoreapp2.0/codewarsPhoneNumber.csproj.CoreCompileInputs.cache
-/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewarsPhoneNumber/codewarsPhoneNumber/obj/Debug/netcoreapp2.0/codewarsPhoneNumber.AssemblyInfoInputs.cache
-/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewarsPhoneNumber/codewarsPhoneNumber/obj/Debug/netcoreapp2.0/codewarsPhoneNumber.AssemblyInfo.cs

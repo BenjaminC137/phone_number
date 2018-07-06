@@ -1,0 +1,11 @@
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/bin/Debug/netcoreapp2.0/codewars1.deps.json
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/bin/Debug/netcoreapp2.0/codewars1.runtimeconfig.json
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/bin/Debug/netcoreapp2.0/codewars1.runtimeconfig.dev.json
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/bin/Debug/netcoreapp2.0/codewars1.dll
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/bin/Debug/netcoreapp2.0/codewars1.pdb
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj/Debug/netcoreapp2.0/codewars1.csprojResolveAssemblyReference.cache
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj/Debug/netcoreapp2.0/codewars1.csproj.CoreCompileInputs.cache
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj/Debug/netcoreapp2.0/codewars1.AssemblyInfoInputs.cache
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj/Debug/netcoreapp2.0/codewars1.AssemblyInfo.cs
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj/Debug/netcoreapp2.0/codewars1.dll
+/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj/Debug/netcoreapp2.0/codewars1.pdb
