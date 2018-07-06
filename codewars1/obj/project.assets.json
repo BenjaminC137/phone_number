@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/codewars1.csproj",
+      "projectUniqueName": "/Users/benjaminsalasek/Documents/GitHub/phone_number/codewars1/codewars1.csproj",
       "projectName": "codewars1",
-      "projectPath": "/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/codewars1.csproj",
+      "projectPath": "/Users/benjaminsalasek/Documents/GitHub/phone_number/codewars1/codewars1.csproj",
       "packagesPath": "/Users/benjaminsalasek/.nuget/packages/",
-      "outputPath": "/Users/benjaminsalasek/Google Drive/VisualStudioProjects/codewars1/codewars1/obj",
+      "outputPath": "/Users/benjaminsalasek/Documents/GitHub/phone_number/codewars1/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

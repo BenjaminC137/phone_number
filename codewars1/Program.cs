@@ -10,6 +10,9 @@ namespace codewars1
 
             Console.WriteLine(phoneNumber);
             Console.ReadLine();
+
+
+
         }
 
 
